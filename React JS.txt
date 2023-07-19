@@ -1,0 +1,9 @@
+Create an app where you get a list of users. On click of users you list down its posts. On click of a post, show data related to post. 
+Make sure you follow all coding standards!
+
+Use this open source API:
+1) https://gorest.co.in/public/v1/users
+2) https://gorest.co.in/public/v1/posts
+3) https://gorest.co.in/public/v1/posts/123
+4) /public/v1/users/123
+5) PUT|PATCH /public/v1/users/123
